@@ -2,7 +2,7 @@
 
 ## Funcionalidad
 
-
+Realiza dos consultas, pero bajo un mismo parametro en una base obteniendo dos archivos.
 
 ## Como se Utiliza
 
